@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(61, 128, 246);
+}
+
+header,footer{
+    color: white;
+    text-align: center;
+}
+
+section {
+    justify-content: center;
+    margin: 1% auto;
+    width: 500px;
+    background-color: white;
+    border-radius: 7px;
+}
+
+div{
+    text-align: center;
+    padding: 5px;
+}
